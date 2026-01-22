@@ -1,0 +1,17 @@
+D:\ANACONDA\envs\py312\python.exe "D:\AI  Learning\课程内容\NINE_Week\NINEWEEK\ner - week13\main.py" 
+2026-01-21 21:50:01,207 - __main__ - INFO - epoch 1 begin
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+2026-01-21 21:50:05,248 - __main__ - INFO - batch loss 2.360691
+2026-01-21 21:53:11,877 - __main__ - INFO - batch loss 0.858278
+2026-01-21 21:56:07,967 - __main__ - INFO - batch loss 0.622626
+2026-01-21 21:56:07,968 - __main__ - INFO - epoch average loss: 0.790811
+2026-01-21 21:56:07,968 - __main__ - INFO - 开始测试第1轮模型效果：
+2026-01-21 21:56:52,255 - __main__ - INFO - PERSON类实体，准确率：0.000000, 召回率: 0.000000, F1: 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - LOCATION类实体，准确率：0.000000, 召回率: 0.000000, F1: 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - TIME类实体，准确率：0.000000, 召回率: 0.000000, F1: 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - ORGANIZATION类实体，准确率：0.000000, 召回率: 0.000000, F1: 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - Macro-F1: 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - Micro-F1 0.000000
+2026-01-21 21:56:52,256 - __main__ - INFO - --------------------
+
+Process finished with exit code 0
