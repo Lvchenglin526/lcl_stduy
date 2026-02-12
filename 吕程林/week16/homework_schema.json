@@ -1,0 +1,55 @@
+{
+  "entitys": [
+    "王强",
+    "赵敏",
+    "c1",
+    "c2",
+    "c3",
+    "f1",
+    "f2",
+    "d1",
+    "d2"
+  ],
+  "relations": [
+    "PURCHASED",
+    "USED_PLAN",
+    "SOLD_BY",
+    "INTERESTED_IN"
+  ],
+  "labels": [
+    "User",
+    "Car",
+    "FinancePlan",
+    "Dealership"
+  ],
+  "attributes": [
+    "userId",
+    "name",
+    "age",
+    "city",
+    "driverLicenseType",
+    "experienceYears",
+    "carId",
+    "brand",
+    "model",
+    "trim",
+    "year",
+    "price",
+    "engineType",
+    "rangeKM",
+    "stock",
+    "colorOptions",
+    "planId",
+    "type",
+    "durationMonths",
+    "annualRate",
+    "description",
+    "dealerId",
+    "location",
+    "rating",
+    "purchaseDate",
+    "totalPrice",
+    "status",
+    "testDriveDate"
+  ]
+}
